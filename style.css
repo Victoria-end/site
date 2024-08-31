@@ -1,0 +1,42 @@
+.first_title {
+    width: 50em;
+}
+.first_paragraph {
+    width: 50em;
+}
+.img {
+    width: 49em;
+}
+.two_paragraph {
+    width: 50em;
+}
+.three_paragraph {
+    width: 50em;
+}
+
+span.main_text {
+    color: rgb(93, 93, 55);
+}
+span.basement,
+span.basement_text {
+    color: rgb(75, 21, 21);
+} 
+span.paragraph_text {
+    color: brown;
+}
+span.paragraph_brown {
+    color: rgb(111, 76, 10);
+}
+/* * {
+    color: red;
+} */
+.first_paragraph+* {
+    color: rgb(73, 88, 10);
+}
+
+p.text_menu {
+    color: rgb(204, 159, 10);
+}
+p.text {
+    color: brown;
+}
